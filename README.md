@@ -1,4 +1,4 @@
-# Hi i'm Kyle
+# Hi I'm Kyle
 A Software Engineer III with a wide variety of interests including REST apis, observability, CI/CD and serverless.
 
 ---
